@@ -1,0 +1,11 @@
+E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=PCServer
+--content-root=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer
+--file=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer\Views\Home\Client.cshtml
+--file=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer\Views\Home\Client2.cshtml
+--file=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer\Views\Home\Index.cshtml
+--file=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer\Views\Shared\Error.cshtml
+--file=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer\Views\Shared\_Layout.cshtml
+--file=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer\Views\_ViewImports.cshtml
+--file=E:\VSWorkspace\SecurityChartsServer\PCServer\PCServer\Views\_ViewStart.cshtml

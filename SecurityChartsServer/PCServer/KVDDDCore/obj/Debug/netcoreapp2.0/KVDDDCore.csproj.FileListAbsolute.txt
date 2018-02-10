@@ -1,0 +1,9 @@
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\bin\Debug\netcoreapp2.0\KVDDDCore.deps.json
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\bin\Debug\netcoreapp2.0\KVDDDCore.dll
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\bin\Debug\netcoreapp2.0\KVDDDCore.pdb
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\obj\Debug\netcoreapp2.0\KVDDDCore.csprojResolveAssemblyReference.cache
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\obj\Debug\netcoreapp2.0\KVDDDCore.csproj.CoreCompileInputs.cache
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\obj\Debug\netcoreapp2.0\KVDDDCore.AssemblyInfoInputs.cache
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\obj\Debug\netcoreapp2.0\KVDDDCore.AssemblyInfo.cs
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\obj\Debug\netcoreapp2.0\KVDDDCore.dll
+E:\VSWorkspace\SecurityChartsServer\PCServer\KVDDDCore\obj\Debug\netcoreapp2.0\KVDDDCore.pdb

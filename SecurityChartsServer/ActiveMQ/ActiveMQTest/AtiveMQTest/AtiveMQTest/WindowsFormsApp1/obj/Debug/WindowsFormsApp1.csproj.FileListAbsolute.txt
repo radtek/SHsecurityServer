@@ -1,0 +1,16 @@
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\Apache.NMS.ActiveMQ.dll
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\Apache.NMS.dll
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\Apache.NMS.pdb
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\Apache.NMS.xml
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\Apache.NMS.ActiveMQ.pdb
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\bin\Debug\Apache.NMS.ActiveMQ.xml
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

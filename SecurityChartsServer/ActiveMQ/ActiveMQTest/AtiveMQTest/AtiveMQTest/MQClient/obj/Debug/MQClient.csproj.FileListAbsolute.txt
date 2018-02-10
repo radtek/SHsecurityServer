@@ -1,0 +1,16 @@
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\MQClient.exe.config
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\MQClient.exe
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\MQClient.pdb
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\Apache.NMS.ActiveMQ.dll
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\Apache.NMS.dll
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\Apache.NMS.pdb
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\Apache.NMS.xml
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\Apache.NMS.ActiveMQ.pdb
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\bin\Debug\Apache.NMS.ActiveMQ.xml
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\obj\Debug\MQClient.csprojResolveAssemblyReference.cache
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\obj\Debug\MQClient.Form1.resources
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\obj\Debug\MQClient.Properties.Resources.resources
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\obj\Debug\MQClient.csproj.GenerateResource.Cache
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\obj\Debug\MQClient.csproj.CoreCompileInputs.cache
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\obj\Debug\MQClient.exe
+E:\VSWorkspace\SecurityChartsServer\ActiveMQ\ActiveMQTest\AtiveMQTest\AtiveMQTest\MQClient\obj\Debug\MQClient.pdb

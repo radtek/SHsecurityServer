@@ -1,0 +1,9 @@
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\bin\Debug\netcoreapp2.0\SHSecurityModels.deps.json
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\bin\Debug\netcoreapp2.0\SHSecurityModels.dll
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\bin\Debug\netcoreapp2.0\SHSecurityModels.pdb
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\obj\Debug\netcoreapp2.0\SHSecurityModels.csprojResolveAssemblyReference.cache
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\obj\Debug\netcoreapp2.0\SHSecurityModels.csproj.CoreCompileInputs.cache
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\obj\Debug\netcoreapp2.0\SHSecurityModels.AssemblyInfoInputs.cache
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\obj\Debug\netcoreapp2.0\SHSecurityModels.AssemblyInfo.cs
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\obj\Debug\netcoreapp2.0\SHSecurityModels.dll
+E:\VSWorkspace\SecurityChartsServer\PCServer\SHSecurityModels\obj\Debug\netcoreapp2.0\SHSecurityModels.pdb
